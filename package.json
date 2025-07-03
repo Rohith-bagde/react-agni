@@ -6,9 +6,16 @@
   "scripts": {
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rohith-bagde/react-agni.git"
+  },
   "keywords": [
     "react"
   ],
   "author": "Rohith Bagde",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
 }
