@@ -1,0 +1,14 @@
+{
+  "name": "react-agni",
+  "version": "1.0.0",
+  "description": "This is react app by Rohith",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Rohith Bagde",
+  "license": "ISC"
+}
