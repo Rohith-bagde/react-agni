@@ -1,0 +1,35 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    border: solid 1px #ccc;
+    
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+}
+.nav-items > ul {
+    display: flex;
+    font-size: 20px;
+    list-style-type: none;
+}
+
+.nav-items > ul > li {
+    margin-right: 20px;
+
+}
+.res-card {
+    width:200px;
+    height: 342px;  
+    border: solid #ccc;
+    padding: 5px;
+}
+.search-container {
+    padding:10px;
+}
+
+.res-logo {
+    width: 190px;
+    padding: 5px;
+}   
